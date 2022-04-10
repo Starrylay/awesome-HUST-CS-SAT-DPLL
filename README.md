@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/67963293/162596762-2363ba03-d353-4807-ab57-a72e8539e27d.png)
 
 3、跳转为游戏界面：
-![image](https://user-images.githubusercontent.com/67963293/162596769-cbfcab19-f35e-408e-8aea-b3696097fc01.png)
+![image](https://user-images.githubusercontent.com/67963293/162596769-cbfcab19-f35e-408e-8aea-b3696097fc01.png)  
 
 4、依次用鼠标点击，进入数独界面：
 鼠标放在棋盘界面会有颜色提示：
