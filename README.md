@@ -18,7 +18,7 @@
 
 4、依次用鼠标点击，进入数独界面：
 鼠标放在棋盘界面会有颜色提示：
-![image](https://user-images.githubusercontent.com/67963293/162596770-4ef7de50-c13e-4b3f-8fb5-dd934c539e3a.png)
+![image](https://user-images.githubusercontent.com/67963293/162609686-312770f9-0c8e-42ad-af2f-44b986307525.png)
 
 5、填充数字时先选中右上角数字，再在点击空格填充：
 填充不符合要求会有颜色提示：
