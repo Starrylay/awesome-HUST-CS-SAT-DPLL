@@ -25,12 +25,12 @@
 ![image](https://user-images.githubusercontent.com/67963293/162596778-b9a0fd3f-b96c-420d-a4c3-31135d3e9ab8.png)
 
 符合要求也有标识：
-![image](https://user-images.githubusercontent.com/67963293/162596779-a3828d00-4fbf-43d6-8f7b-28d17d580c0b.png)
+![image](https://user-images.githubusercontent.com/67963293/162609699-aa9cb4d0-a06c-4632-aef5-4cb4199a0b91.png)
 
 6、显示答案：
 点击右侧显示答案，答案会显示空格中：
 ![image](https://user-images.githubusercontent.com/67963293/162596792-63896fbc-8379-4cc1-937d-2e1a7dc12b07.png)
-![image](https://user-images.githubusercontent.com/67963293/162596795-6d9db339-bfa7-49d2-870b-a12bda964216.png)
+![image](https://user-images.githubusercontent.com/67963293/162609706-27469f7a-ac69-4e99-a378-ea19dfe31c1e.png)
 
 
 7、点击暂停可以暂停左上时间
@@ -42,8 +42,7 @@
 ![image](https://user-images.githubusercontent.com/67963293/162596797-ef345c94-f983-4866-9510-4a9841e3ed83.png)
 
 并询问是否再来一局：
-![image](https://user-images.githubusercontent.com/67963293/162596798-b25c08f1-70b3-475d-bdd6-9ef6f2d78273.png)
-
+![image](https://user-images.githubusercontent.com/67963293/162609716-7ed4f1e1-f80c-439d-8010-bc396df36613.png)
 10、跳转到命令窗口：
 上边两组数字即为挖洞前棋盘和挖洞后棋盘：
 ![image](https://user-images.githubusercontent.com/67963293/162596806-efe06b67-9199-49af-b8bd-dc96d77530c7.png)
